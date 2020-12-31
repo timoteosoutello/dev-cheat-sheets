@@ -50,6 +50,9 @@
         - https://www.baeldung.com/spring-boot-jasypt / https://www.devglan.com/online-tools/jasypt-online-encryption-decryption
         - http://jwt.io/
         - https://docs.spring.io/spring-security/site/docs/current/reference/html5/
+        - https://spring.io/guides/gs/securing-web/
+        - https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html
+        - https://www.codejava.net/frameworks/spring-boot/spring-boot-security-role-based-authorization-tutorial
 
 - **SO**
   - **Linux**
