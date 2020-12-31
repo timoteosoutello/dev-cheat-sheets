@@ -47,12 +47,13 @@
         - https://dzone.com/articles/overview-of-redisson-the-redis-java-client
         - https://www.vinsguru.com/redis-master-slave-with-spring-boot/
       - **Security**
-        - https://www.baeldung.com/spring-boot-jasypt / https://www.devglan.com/online-tools/jasypt-online-encryption-decryption
+        - https://www.baeldung.com/spring-boot-jasypt / https://www.devglan.com/online-tools/jasypt-online-encryption-decryption / https://github.com/ulisesbocchio/jasypt-spring-boot / https://www.codejava.net/frameworks/spring-boot/spring-boot-password-encryption
         - http://jwt.io/
         - https://docs.spring.io/spring-security/site/docs/current/reference/html5/
         - https://spring.io/guides/gs/securing-web/
         - https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.html
         - https://www.codejava.net/frameworks/spring-boot/spring-boot-security-role-based-authorization-tutorial
+        - https://www.baeldung.com/spring-security-oauth-resource-server / https://docs.spring.io/spring-security-oauth2-boot/docs/current/reference/html5/
 
 - **SO**
   - **Linux**
