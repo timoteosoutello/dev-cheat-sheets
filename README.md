@@ -32,7 +32,6 @@
         - https://docs.spring.io/spring-framework/docs/current/reference/html/
         - https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
         - https://docs.spring.io/spring-data/jdbc/docs/current/reference/html/#reference
-        - https://docs.spring.io/spring-security/site/docs/current/reference/html5/
         - https://springdoc.org/
       - **HikariCP**
         - https://github.com/brettwooldridge/HikariCP
@@ -47,7 +46,10 @@
         - https://hub.docker.com/_/redis
         - https://dzone.com/articles/overview-of-redisson-the-redis-java-client
         - https://www.vinsguru.com/redis-master-slave-with-spring-boot/
-
+      - **Security**
+        - https://www.baeldung.com/spring-boot-jasypt / https://www.devglan.com/online-tools/jasypt-online-encryption-decryption
+        - http://jwt.io/
+        - https://docs.spring.io/spring-security/site/docs/current/reference/html5/
 
 - **SO**
   - **Linux**
